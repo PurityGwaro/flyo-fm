@@ -156,6 +156,11 @@ h3{
 .section4 a {
     color: whitesmoke;
 }
+.contact{
+    color: whitesmoke;
+    background-color: hsl(243, 87%, 12%);
+    margin: 1rem;
+}
 .img7{
     width: 2rem;
     height: 2rem;
